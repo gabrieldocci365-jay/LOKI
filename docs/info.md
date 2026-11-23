@@ -17,4 +17,4 @@ apply a 4-bit binary number to the pins
 
 ## External hardware
 
-Si
+Any display i guess
